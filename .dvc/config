@@ -1,4 +1,4 @@
 [core]
     remote = wineremote
 ['remote "wineremote"']
-    url = s3://wine-model-savithri
+    url = '"s3 buckket url"
